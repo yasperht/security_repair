@@ -21,7 +21,7 @@
 
 **Vistas:**  Se han creado vistas que ofrecen una representación lógica de los datos almacenados en la base de datos. Estas vistas permiten simplificar y reutilizar consultas complejas, proporcionando una capa de abstracción sobre las tablas subyacentes.
 
-[![temporal-datagrip.png](https://i.postimg.cc/XNDLhqNz/temporal-datagrip.png)](https://postimg.cc/23hnLzZQ)
+[![temporal-datagrip.png](https://i.postimg.cc/Dz5fnYJp/datagrip-SQL.png)](https://postimg.cc/2qbNxGxn)
 
 ### Queries realizadas de prueba
 ```sql
